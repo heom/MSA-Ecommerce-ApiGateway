@@ -9,7 +9,9 @@
   - Eureka-client 3.1.1
   - Config 3.1.1
   - Bus-amqp(RabbitMq) 3.1.1
+- JWT jwtt 0.9.1
 - Spring Actuator 2.6.4
+ 
 
 ## 프로젝트 서버 구성
 - IP : localhost

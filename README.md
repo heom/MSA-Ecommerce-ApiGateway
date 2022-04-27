@@ -1,5 +1,6 @@
 # MSA Ecommerce
 - [MSA Ecommerce] API Gateway
+![apigateway](https://user-images.githubusercontent.com/42602972/165477345-dea2e100-d6d6-4bc2-96df-1d6b9183198c.png)
 
 ## 프로젝트 개발 구성
 - Java 8

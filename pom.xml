@@ -9,8 +9,8 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>me.study</groupId>
-    <artifactId>gateway</artifactId>
-    <version>0.0.1-SNAPSHOT</version>
+    <artifactId>apigateway-service</artifactId>
+    <version>1.0</version>
     <name>gateway</name>
     <description>gateway</description>
     <properties>

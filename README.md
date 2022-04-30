@@ -5,13 +5,14 @@
 ## 프로젝트 개발 구성
 - Java 8
 - Spring Boot(+Maven) 2.6.4
+- JWT jwtt 0.9.1
+- Spring Actuator 2.6.4
 - Spring Cloud 2021.0.1
   - Gateway 3.1.1
   - Eureka-client 3.1.1
   - Config 3.1.1
   - Bus-amqp(RabbitMq) 3.1.1
-- JWT jwtt 0.9.1
-- Spring Actuator 2.6.4
+
  
 
 ## 프로젝트 서버 구성
@@ -68,6 +69,7 @@
       - Request Body(json) <= **[Catalog API] getCatalogs 참조** 
         - productId
         - qty
+        - unitPrice
 
 ## 추가 정리
 - **구동 서버**
